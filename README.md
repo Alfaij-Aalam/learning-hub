@@ -4,7 +4,7 @@ role-based access for both students and administrators. Students can explore cur
 subjects, and manage their personal profiles through a sleek dashboard, while administrators have access to an intuitive 
 backend panel to monitor and manage user records.
 
-3. Key Features Bullet Points (For README)
+ Key Features Bullet Points
 Role-Based Authentication & Authorization: Secure login workflows supporting both hardcoded administrator credentials and MySQL-backed student accounts.
 
 Student Dashboard & Profile Management: Personalized student interface featuring a persistent left-hand sidebar displaying profile details such as email, mobile number, blood group, and age.
